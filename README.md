@@ -1,0 +1,2 @@
+I needed this and try to make it with only chatGPT but chatGpt couldnt do it so i take the charge and complete it
+Chat gpt make error handling printing what is going on but it is not dunctional it doesnt delete properly
